@@ -47,7 +47,7 @@ h3 {
 
 
 .center { margin: 0 auto; }
-.content{ margin-top: 500px; width: 960px; }
+.content{ margin-top: 300px; margin-left: 100px; width: 960px; }
 .clear { clear: both; }
 a.lpanel { float: left; color: #e1e1e1; font-size: 12px; font-family:"Wellfleet"; text-decoration: none; margin: 7px 11px; }
 a.rpanel { float: right; color: #e1e1e1;  font-size: 12px; font-family:"Wellfleet"; text-decoration: none; margin: 7px 11px; }
