@@ -59,14 +59,15 @@ a.rpanel:hover{ color: #fff; }
 
 #header { 
 	width: 100%; 
-	background-color: #FF6600;
+	background-color: #fff;
 	height: 80px; 	
 	position: fixed;
 	margin-top: 0px;
+  opacity: 0.9;
 }
 
 #nav { width: 410px; float: right; margin-top: 20px; }
-#logo a { color: #fff; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #fff; font-family:"Wellfleet"; font-weight: bold; }
+#logo a { color: #000000; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #000000; font-family:"Wellfleet"; font-weight: bold; }
 #nav ul{
 	list-style: none;
 	display: block;
@@ -80,9 +81,9 @@ a.rpanel:hover{ color: #fff; }
 	padding-left: 21px;
 }
 
-#nav li a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
-#nav li a.active { color: #fff; opacity:1; border-bottom: 2px solid #fff; }
-#nav li a:hover { color: #fff; opacity:1;  }
+#nav li a { color: #000000; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
+#nav li a.active { color: #000000; opacity:1; border-bottom: 2px solid #fff; }
+#nav li a:hover { color: #000000; opacity:1;  }
 
 
 
@@ -140,9 +141,8 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide1 h1{
   background: #FF6600;
-  opacity: 0.5;
-  top: 40%;
-  left: 40%;
+  opacity: 0.7;
+  top: 50%;
 }
 
 #slide3{
