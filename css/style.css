@@ -130,7 +130,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
   background: #ff6600;
   opacity: 0.5;
   color: #fff;
-  width: 250px;
+  width: 500px;
   float: right;
 }
 
@@ -138,7 +138,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
   background: #ff6600;
   opacity: 0.5;
   color: #fff;
-  width: 500px;
+  width: 250px;
   float: left;
 }
 
