@@ -111,7 +111,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	background: url('../img/bridge-h.jpg') 50% 0 no-repeat fixed;
 	color: #fff;
 	height: 600px;
-  padding: 0;
+  padding: 200px;
   float: right;
 	background-size: cover;
 }
