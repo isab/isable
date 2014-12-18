@@ -111,7 +111,8 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	background: url('../img/bridge-h.jpg') 50% 0 no-repeat fixed;
 	color: #fff;
 	height: 600px;
-  padding: 200px 0 0 0;
+  padding: 100px 0 0 0;
+  float: right;
 	background-size: cover;
 }
 
@@ -119,7 +120,6 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
   background: #ff6600;
   opacity: 0.7;
   color: #fff;
-  float: right;
   width: 500px;
 }
 
@@ -128,7 +128,8 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	height: 200px;
 	margin: 0 auto;
 	color: #fff;
-  padding: 600px 0 0 0; 
+  padding: 550px 0 0 0; 
+  float: right;
 	background-size: cover;
 }
 
@@ -136,6 +137,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
   background: #000;
   opacity: 0.6;
   color: #fff;
+  width: 500px;
 }
 
 
