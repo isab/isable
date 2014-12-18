@@ -24,7 +24,7 @@ h1 {
 }
 
 .center { margin: 0 auto; }
-.content1{ margin-top: 1000px; width: 100%; }
+.content1{ margin-bottom: 500px; width: 100%; }
 .content3{ margin-top: 100px; width: 50%; float: right;}
 .content5{ margin-top: 200px; margin-left: 150px; width: 100%; }
 .clear { clear: both; }
@@ -122,11 +122,11 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide5{
-	background: url('../img/cannoli-h.jpg') 50% 0 no-repeat fixed;
+	background: url('../img/snow.jpg') 50% 0 no-repeat fixed;
 	height: 200px;
 	margin: 0 auto;
 	color: #fff;
-  padding: 600px 0 0 0; 
+  padding: 300px 0 0 0; 
 	background-size: cover;
 }
 
@@ -139,6 +139,3 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 /*= FOOTER 
 --------------------------------------------------------*/
-
-#copyright  { color: #fff; font-family:"Wellfleet";  font-size: 14px; margin-top: 100px; text-align: center;  }
-#copyright  a { text-decoration: none; color: #fff;  }
