@@ -25,8 +25,7 @@ h1 {
 
 .center { margin: 0 auto; }
 .content1{ width: 100%; }
-.content3{ width: 50%; float: right;}
-.content5{ margin-top: 200px; margin-left: 150px; width: 100%; }
+.content2{ width: 50%; float: right;}
 .clear { clear: both; }
 a.lpanel { float: left; color: #e1e1e1; font-size: 12px; font-family:"Wellfleet"; text-decoration: none; margin: 7px 11px; }
 a.rpanel { float: right; color: #e1e1e1;  font-size: 12px; font-family:"Wellfleet"; text-decoration: none; margin: 7px 11px; }
@@ -105,7 +104,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
   background: #000;
   opacity: 0.6;
   color: #fff;
-  margin-top: 600px;
+  margin-top: 400px;
 }
 
 #slide3{
@@ -120,6 +119,9 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
   background: #ff6600;
   opacity: 0.7;
   color: #fff;
+  margin-top: 100px;
+  float: right;
+  width: 50%;
 }
 
 #slide5{
@@ -127,7 +129,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	height: 200px;
 	margin: 0 auto;
 	color: #fff;
-  padding: 400px 0 0 0; 
+  padding: 600px 0 0 0; 
 	background-size: cover;
 }
 
