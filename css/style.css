@@ -14,7 +14,7 @@ body{
 }
 
 h1 { 
-  font-family:"Arvo";
+  font-family:"Roboto Slab";
 	font-weight:normal;
 	font-size: 55px;
 	text-align: center;
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 { 
-  font-family:"Arvo";
+  font-family:"Roboto Slab";
   font-weight:normal;
   font-size: 30px;
   text-align: center;
@@ -34,7 +34,7 @@ h2 {
 }
 
 h3 { 
-  font-family:"Arvo";
+  font-family:"Roboto Slab";
   font-weight:normal;
   font-size: 55px;
   text-align: center;
@@ -44,7 +44,7 @@ h3 {
 }
 
 h4 { 
-  font-family:"Arvo";
+  font-family:"Roboto Slab";
   font-weight:normal;
   font-size: 30px;
   text-align: center;
@@ -56,8 +56,8 @@ h4 {
 .center { margin: 0 auto; }
 .content{ width: 100%; }
 .clear { clear: both; }
-a.lpanel { float: left; color: #e1e1e1; font-size: 12px; font-family:"Oswald"; text-decoration: none; margin: 7px 11px; }
-a.rpanel { float: right; color: #e1e1e1;  font-size: 12px; font-family:"Oswald"; text-decoration: none; margin: 7px 11px; }
+a.lpanel { float: left; color: #e1e1e1; font-size: 12px; font-family:"Roboto Slab"; text-decoration: none; margin: 7px 11px; }
+a.rpanel { float: right; color: #e1e1e1;  font-size: 12px; font-family:"Roboto Slab"; text-decoration: none; margin: 7px 11px; }
 
 a.lpanel:hover{ color: #fff; }
 a.rpanel:hover{ color: #fff; }
@@ -74,7 +74,7 @@ a.rpanel:hover{ color: #fff; }
 }
 
 #nav { width: 410px; float: right; margin-top: 20px; }
-#logo a { color: #000000; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #000000; font-family:"Oswald"; font-weight: bold; }
+#logo a { color: #000000; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #000000; font-family:"Roboto Slab"; font-weight: bold; }
 #nav ul{
 	list-style: none;
 	display: block;
@@ -88,7 +88,7 @@ a.rpanel:hover{ color: #fff; }
 	padding-left: 21px;
 }
 
-#nav li a { color: #000000; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Oswald'; }
+#nav li a { color: #000000; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Roboto Slab'; }
 #nav li a.active { color: #000000; opacity:1; border-bottom: 2px solid #fff; }
 #nav li a:hover { color: #000000; opacity:1;  }
 
@@ -145,30 +145,30 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide3 h1{
-  background: #fff;
+  background: #000;
   opacity: 0.6;
-  color: #000;
-  margin-top: 350px;
+  color: #fff;
+  margin-top: 100px;
 }
 
 #slide3 h2{
-  background: #fff;
+  background: #000;
   opacity: 0.6;
-  color: #000;
+  color: #fff;
   margin-top: 0px;
 }
 
 #slide3 h3{
-  background: #fff;
+  background: #000;
   opacity: 0.6;
-  color: #000;
+  color: #fff;
   margin-top: 0px;
 }
 
 #slide3 h4{
-  background: #fff;
+  background: #000;
   opacity: 0.6;
-  color: #000;
+  color: #fff;
   margin-top: 0px;
 }
 
