@@ -43,6 +43,16 @@ h3 {
   padding: 0;
 }
 
+h4 { 
+  font-family:"Arvo";
+  font-weight:normal;
+  font-size: 30px;
+  text-align: center;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
 .center { margin: 0 auto; }
 .content{ width: 100%; }
 .clear { clear: both; }
@@ -138,7 +148,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
   background: #000;
   opacity: 0.6;
   color: #fff;
-  margin-top: 300px;
+  margin-top: 350px;
 }
 
 #slide3 h2{
@@ -149,6 +159,13 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide3 h3{
+  background: #000;
+  opacity: 0.6;
+  color: #fff;
+  margin-top: 0px;
+}
+
+#slide3 h4{
   background: #000;
   opacity: 0.6;
   color: #fff;
