@@ -35,9 +35,9 @@ h2 {
 
 .center { margin: 0 auto; }
 .content1{ width: 100%; }
-#content2{ width: 100%; height: 400px; background: #000; opacity: 0.6; font-family: "Arvo"; }
+#content2{ width: 100%; height: 400px; top: 55px; background: #000; opacity: 0.6; font-family: "Arvo"; }
 .content3{ width: 600px; height: 390px; top: 1050px; left: 20px; position: absolute;}
-.content4{ width: 300px; height: 390px; top: 1050px; left: 710px; position: absolute;}
+.content4{ width: 300px; height: 390px; top: 1050px; left: 810px; position: absolute;}
 .clear { clear: both; }
 a.lpanel { float: left; color: #e1e1e1; font-size: 12px; font-family:"Oswald"; text-decoration: none; margin: 7px 11px; }
 a.rpanel { float: right; color: #e1e1e1;  font-size: 12px; font-family:"Oswald"; text-decoration: none; margin: 7px 11px; }
@@ -123,7 +123,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	background: url('../img/bridge-h.jpg') 50% 0 no-repeat fixed;
 	color: #fff;
 	height: 600px;
-  padding: 180px 0 0 0;
+  padding: 170px 0 0 0;
 	background-size: cover;
 }
 
